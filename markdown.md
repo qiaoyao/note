@@ -30,7 +30,7 @@
 
 # 图片
 
-![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+![my-logo](https://avatars1.githubusercontent.com/u/18416457?s=40&v=4)
 
 # 列表
 ` * 无序列表 `
@@ -59,6 +59,8 @@
 **粗体**
 
 # 表格
+
+` | Item | Item | Item | `
 
 | Item      |    Value | Qty  |
 | :-------- | --------:| :--: |
