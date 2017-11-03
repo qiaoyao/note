@@ -30,6 +30,7 @@
 
 # 图片
 
+` ![]() `
 ![my-logo](https://avatars1.githubusercontent.com/u/18416457?s=40&v=4)
 
 # 列表
@@ -38,12 +39,15 @@
 * 无序列表
 * 无序列表
 
-` * 有序列表 `
+` 1. 有序列表 `
 1. 有序列表
 2. 有序列表
 3. 有序列表
 
 # 选项
+
+` - [ ] 选项 `
+` - [x] 选项 `
 
 - [ ] 选项A
 - [ ] 选项B
@@ -70,7 +74,7 @@
 
 # 代码
 
-` ```language function ``` `
+` ```language code ``` `
 > language 是不同语言 javascript/php/html/css/sql
 ```javascript
 var a = function (){
